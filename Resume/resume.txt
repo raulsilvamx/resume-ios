@@ -1,0 +1,234 @@
+#Raul Silva
+##  iOS Developer at Dextra Technologies
+####Chihuahua Area, Mexico
+
+#Summary
+ I have over 6 years of experience with iOS Development.
+My personal app to the App Store: FG Camera https://goo.gl/3By5Ya
+I’ve worked with CloudKit to store user’s data in iCloud platform. Encryption between apps and servers.
+I would like work in USA for improve my english too or i would like a remote position.
+
+##Contact
+Porticos de Kibo # 5424
+Fracc. Bellas Cumbres
+Chihuahua, Chihuahua, Mexico
+
++526141961637 (Mobile)
+raulsilvamx@gmail.com
+
+https://www.linkedin.com/in/raul-silva-021817a3 (LinkedIn)
+
+##Skills
+iOS
+Swift
+Objective-C
+
+##Languages
+English (Full Professional)
+Spanish (Native or Bilingual)
+
+##Certifications
+Diplomado de Ingles Facultad de Filosofia y Letras
+Certified White Hat Professional +100
+
+##Native iOS Frameworks I have worked with them:
+
+Accelerate.framework
+Security.framework
+Accounts.framework
+Social.framework
+AddressBook.framework
+StoreKit.framework
+AddressBookUI.framework
+Twitter.framework
+AdSupport.framework
+UIKit.framework
+AssetsLibrary.framework
+VideoToolbox.framework
+AudioToolbox.framework
+WebKit.framework
+AudioUnit.framework
+iAd.framework
+AVFoundation.framework
+ImageIO.framework
+AVKit.framework
+IOKit.framework
+CFNetwork.framework
+JavaScriptCore.framework
+CloudKit.framework
+MapKit.framework
+CoreAudio.framework
+MediaAccessibility.framework
+CoreAudioKit.framework
+MediaPlayer.framework
+CoreBluetooth.framework
+MediaToolbox.framework
+CoreData.framework
+MessageUI.framework
+CoreFoundation.framework
+NotificationCenter.framework
+CoreGraphics.framework
+PassKit.framework
+CoreImage.framework
+Photos.framework
+CoreLocation.framework
+PhotosUI.framework
+CoreMedia.framework
+QuartzCore.framework
+CoreMotion.framework
+CoreVideo.framework
+EventKit.framework
+EventKitUI.framework
+Foundation.framework
+
+##Non-Native iOS Frameworks i have been work with them:
+
+####Objective C Frameworks:
+
+AFNetworkActivityLogger
+AFNetworking
+CocoaLumberjack
+Crashlytics
+EncryptedCoreData
+Fabric
+GoogleAnalytics
+GPUImage
+libextobjc
+Mantle
+Masonry
+MGSwipeTableCell
+ReactiveCocoa RestKit SDVersion SSKeychain
+SVProgressHUD
+TTTAttributedLabel
+Typhoon Bolts SDWebImage
+youtube-ios-player-helper
+
+####Swift Frameworks:
+
+ActionSheetPicker-3.0
+Alamofire
+AlamofireObjectMapper
+AWSS3
+AWSSQS
+Crashlytics Fabric FBSDKCoreKit
+GoogleTagManager
+IQKeyboardManagerSwift
+JKNotificationPanel
+OneSignal
+Regex
+SMSegmentView
+SnapKit Spring
+SwiftLocation
+
+#Experience
+
+##Dextra Technologies
+###iOS Developer
+####Diciembre de 2017 - Present
+#####Monterrey Area, Mexico
+
+##Banorte Seguros
+###Project Description
+This app is used to show clients information about insurance carrier information.
+
+###Key Achievements:
+• I had taken a SCRUM Developer Course. 
+• I have taken AGILE Developer Course.
+• I implemented moGenerator for Core Data section.
+• New Logic to accept other type of Insurance policy.
+• Fixes about some parts in the app.
+• I created new views and logic.
+• Remove old logic and replace with new methods.
+
+#####Environment: iOS, Swift, Objective-C, ORACLE.
+
+##Gamma Partners
+###iOS Developer
+####Junio de 2015 - Noviembre de 2017 (2 años 6 meses)
+#####Chihuahua, Chihuahua, Mexico
+
+##Masterlock e-locks app
+###Project Description
+Masterlock Company has padlocks, which interact with iOS and Android Devices. These padlocks have keys for interact with them.
+
+###Key Achievements:
+• I'm in charge of MasterLock Vault App iOS, in this app,
+• The app was given to me the code without documentation and none comments into the code.
+• I had to research how it is worked.
+• I learned to use ReactiveCocoa Framework. This is a special framework than use Functional Reactive Programming. My best challenger was learnt it and used it.
+• I fixed the communication between the locks and the application (Bluetooth).
+• I developed new workflow for account creation. This application is using Mansory Framework too for display UI Elements and other frameworks important in the application.
+
+#####Environment: iOS, Objective-C, .Net.
+
+##LifeLine Response App
+###Project Description
+LifeLife Response is an application for tracking our ubication and send to our personal contacts if after a timeout like user didn’t off it.
+
+###Key Achievements:
+• I was developing for LifeLine Response App Reskin,
+• I were converting each method created in objective c to swift because the reskin was changed a lot of functionality, so We decided to write all in swift for get an better application.
+
+####Environment: iOS, Swift, Objective-C, PHP
+
+##Midas App Project
+###Description
+ Midas app is an application for list Midas’ stores.
+
+###Key Achievements:
+• I improved Midas App, in this app.
+• I created new views and use new endpoints.
+
+#####Environment: iOS, Swift, Objective-C, .Net
+
+##MANIAK
+###iOS Developer
+#### Mayo de 2015 - julio de 2015 (3 meses)
+#####Guadalajara y alrededores, México
+
+##Expo Mueble Internacional App
+### Project Description
+ This application displays a list of companies in this Expo.
+
+###Key Achievements:
+• I rewrite the entire Expo Mueble Internacional app for support two different skin colors (Objective-C).
+• I implemented Dijkstra Algorithm
+
+#####Environment: iOS, Objective-C, PHP
+
+##Self Employed
+### iOS Developer
+####Marzo de 2012 - Mayo de 2015 (3 años 3 meses)
+#####Chihuahua y alrededores, México
+
+##Project Description
+ I worked as Self Employee.
+
+##Key Achievements:
+• I was developing iOS Applications
+• I was developing Web Sites
+• I was giving Professional Suggestions.
+
+#####Environment: iOS, Objective-C, PHP, MySQL
+
+##Digit Controles, S.A. de C.V.
+###Network Engineer
+####Enero de 2001 - Marzo de 2012 (11 años 3 meses)
+#####Chihuahua y alrededores, México
+
+##Project Description
+ Computer Science Engineer in charge of Computer Network.
+
+##Key Achievements:
+• I was installing server hardware and software infrastructure.
+• I set up user accounts and passwords.
+• I was monitoring network usage and security.
+• I was managing email, spam, and virus protection.
+• I was checking correct functionality of the networks.
+• I was troubleshooting and restore system after crashes.
+
+#####Environment: Windows, PHP, MySQL
+
+##Education
+Instituto Tecnológico de Chihuahua II 
+Ing. en Sistemas Computacionales, Redes Distribuidas · (1996 - 2001)

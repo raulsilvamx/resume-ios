@@ -14,6 +14,7 @@
 		E2ACA9C82308ECAF0055B7E9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E2ACA9C62308ECAF0055B7E9 /* LaunchScreen.storyboard */; };
 		E2ACA9D32308ECAF0055B7E9 /* ResumeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2ACA9D22308ECAF0055B7E9 /* ResumeTests.swift */; };
 		E2ACA9DE2308ECAF0055B7E9 /* ResumeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2ACA9DD2308ECAF0055B7E9 /* ResumeUITests.swift */; };
+		E2ACA9EC2308EE7D0055B7E9 /* resume.txt in Resources */ = {isa = PBXBuildFile; fileRef = E2ACA9EB2308EE7D0055B7E9 /* resume.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		E2ACA9D92308ECAF0055B7E9 /* ResumeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ResumeUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E2ACA9DD2308ECAF0055B7E9 /* ResumeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResumeUITests.swift; sourceTree = "<group>"; };
 		E2ACA9DF2308ECAF0055B7E9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E2ACA9EB2308EE7D0055B7E9 /* resume.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = resume.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				E2ACA9BD2308ECAC0055B7E9 /* AppDelegate.swift */,
 				E2ACA9BF2308ECAC0055B7E9 /* ViewController.swift */,
 				E2ACA9C12308ECAC0055B7E9 /* Main.storyboard */,
+				E2ACA9EB2308EE7D0055B7E9 /* resume.txt */,
 				E2ACA9C42308ECAF0055B7E9 /* Assets.xcassets */,
 				E2ACA9C62308ECAF0055B7E9 /* LaunchScreen.storyboard */,
 				E2ACA9C92308ECAF0055B7E9 /* Info.plist */,
@@ -230,6 +233,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E2ACA9C82308ECAF0055B7E9 /* LaunchScreen.storyboard in Resources */,
+				E2ACA9EC2308EE7D0055B7E9 /* resume.txt in Resources */,
 				E2ACA9C52308ECAF0055B7E9 /* Assets.xcassets in Resources */,
 				E2ACA9C32308ECAC0055B7E9 /* Main.storyboard in Resources */,
 			);
@@ -435,13 +439,14 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 98SFE79WY9;
 				INFOPLIST_FILE = Resume/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.1;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.sirdisoft.Resume;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 5.0;
+				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
@@ -453,13 +458,14 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 98SFE79WY9;
 				INFOPLIST_FILE = Resume/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.1;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.sirdisoft.Resume;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 5.0;
+				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
